@@ -1,0 +1,17 @@
+{
+  "name": "limbo",
+  "version": "1.0.0",
+  "description": "cats service",
+  "main": "8080",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "limbo",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "cors": "^2.8.4",
+    "express": "^4.16.3"
+  }
+}
